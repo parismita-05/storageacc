@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\vmadmin\\Desktop\\storageacc\\IotHubDevice\\IotHubDevice.csproj": {}
+    "C:\\Users\\vmadmin\\Desktop\\storageacc\\IotHubDevice\\IotHubDevice.csproj": {}
   },
   "projects": {
-    "c:\\Users\\vmadmin\\Desktop\\storageacc\\IotHubDevice\\IotHubDevice.csproj": {
+    "C:\\Users\\vmadmin\\Desktop\\storageacc\\IotHubDevice\\IotHubDevice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\vmadmin\\Desktop\\storageacc\\IotHubDevice\\IotHubDevice.csproj",
+        "projectUniqueName": "C:\\Users\\vmadmin\\Desktop\\storageacc\\IotHubDevice\\IotHubDevice.csproj",
         "projectName": "IotHubDevice",
-        "projectPath": "c:\\Users\\vmadmin\\Desktop\\storageacc\\IotHubDevice\\IotHubDevice.csproj",
+        "projectPath": "C:\\Users\\vmadmin\\Desktop\\storageacc\\IotHubDevice\\IotHubDevice.csproj",
         "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\vmadmin\\Desktop\\storageacc\\IotHubDevice\\obj\\",
+        "outputPath": "C:\\Users\\vmadmin\\Desktop\\storageacc\\IotHubDevice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
